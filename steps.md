@@ -42,3 +42,15 @@
 1. Performance of pixel checks
 2. Latency between detection and action (mob detected and shooting)
 3.
+
+# NOTES
+
+## Area of circle
+
+997,557
+1248,671
+
+## Area of spawn particles
+
+741,141
+1144,135
